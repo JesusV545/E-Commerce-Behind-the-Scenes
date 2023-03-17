@@ -36,8 +36,12 @@ Once the code is loaded, open up the intergrated terminal and log in to MySql to
 
 ## At a Glance
 
+![2023-03-16](https://user-images.githubusercontent.com/117941643/225816104-a4ccf3dc-4a98-4768-8f80-77cbe2aab98d.png)
 
 
 #### Links
 
+https://drive.google.com/file/d/1mkn5r7cly-b5l2waWGn5zA1xIOBpaVGE/view
+
+https://github.com/JesusV545/E-Commerce-Behind-the-Scenes
 
